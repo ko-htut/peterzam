@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Peter
 #### I am DevOp Engineer.  
-![I am DevOp Engineer.  ](https://peterzam.dev/assets/profile.png)
+![I am DevOp Engineer.  ](https://peterzam.dev/assets/favicon.png)
 
 
 Skills: Go / Python / JS / HTML / CSS / C,C++/ Shell / VHDL / Assembly 
